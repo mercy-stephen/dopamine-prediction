@@ -1,0 +1,5 @@
+COc1ccc(-c2cccc(CN3CCN(c4ncccn4)CC3)c2)cc1	CHEMBL292943
+Fc1ccc(-c2cncc(CN3CCN(c4ccccc4F)CC3)c2)cc1	CHEMBL61682
+COc1ccccc1-c1cccc(CN2CCN(c3ncccn3)CC2)c1	CHEMBL64487
+c1cnc(N2CCN(Cc3cccc(-c4ccsc4)c3)CC2)nc1	CHEMBL64597
+Fc1ccc(-c2cncc(CN3CCN(c4ccc(F)cc4)CC3)c2)cc1	CHEMBL291824
