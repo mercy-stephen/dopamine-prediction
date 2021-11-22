@@ -4,4 +4,4 @@ base58==2.0.1
 pickle5==0.0.11                   
 subprocess32==3.5.4 
 scikit-learn==0.22.1  
-java-1.7.0-openjdk-cos6-i686==1.7.0.131
+java==1.7.0.131
