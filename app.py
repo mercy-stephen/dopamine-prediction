@@ -43,6 +43,7 @@ st.image(image, use_column_width=True)
 st.markdown("""
 # Bioactivity Prediction App (Dopamine 2 Receptor)
 This app allows you to predict the bioactivity towards inhibting the `Dopamine 2 Receptor` enzyme. `Dopamine 2 Receptor` is a drug target for Schizophrenia disease.
+
 **Credits**
 - App built in `Python` + `Streamlit` by [Mercy Stephen]
 - Descriptor calculated using [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) [[Read the Paper]](https://doi.org/10.1002/jcc.21707).
