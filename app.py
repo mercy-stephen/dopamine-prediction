@@ -35,14 +35,14 @@ def build_model(input_data):
     st.markdown(filedownload(df), unsafe_allow_html=True)
 
 # Logo image
-image = Image.open('logo.png')
+image = Image.open('Bioactivity Prediction App.png')
 
 st.image(image, use_column_width=True)
 
 # Page title
 st.markdown("""
-# Bioactivity Prediction App (Dopamine 2 Receptor)
-This app allows you to predict the bioactivity towards inhibting the `Dopamine 2 Receptor` enzyme. `Dopamine 2 Receptor` is a drug target for Schizophrenia disease.
+# Bioactivity Prediction App (Dopamine Inhibition)
+This app allows you to predict the bioactivity towards inhibting the `Dopamine` enzyme. `Dopamine` is a drug target for Schizophrenia disease.
 
 **Credits**
 - App built in `Python` + `Streamlit` by [Mercy Stephen]
